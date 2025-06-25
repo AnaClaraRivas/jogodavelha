@@ -338,13 +338,13 @@ section.ondas-box {
 
 .onda-top {
   position: absolute;
-  top: -100px; /* "invade" a seção anterior */
+  top: -100px; 
   left: 0;
   width: 100%;
   height: 100px;
   overflow: hidden;
   line-height: 0;
-  z-index: 10; /* sobe sobre outras sections */
+  z-index: 10; 
   background:  #8500c7;
 
 }
